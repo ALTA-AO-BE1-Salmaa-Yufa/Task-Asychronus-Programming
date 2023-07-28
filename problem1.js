@@ -11,7 +11,7 @@ function jajanBoba(uang, callback) {
       } else {
         console.log(`Maaf uang kamu belum cukup untuk membeli boba`);
         console.log(`Sisa uang kamu sebesar Rp. ${uang}`);
-      }
+      }  
     }, bobaTime);
   }
   
